@@ -1,0 +1,13 @@
+.buttonWrite{
+    width: 139px;
+    height: 44px;
+    border-radius: 8px;
+    border: none;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    background-color: '#fff';
+    color: rgb(85, 85, 85);
+    background-color: #fff;
+    margin-left: 20px;
+}
